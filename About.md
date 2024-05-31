@@ -1,6 +1,6 @@
-- 👋 Hello, I'm Pedro Alves
-- 👀 I'm interested in studying 
- 🌱 I'm currently learning front-end.
+- 👋 Hello, I'm Pedro Alves;
+- 👀 I'm interested in studying. 
+- 🌱 I'm currently learning front-end.
 - 📫 How to contact me 
 contato.peedroo23@gmail.com.
 - ⚡ Curiosity: Football lover and interested in learning more every day!
